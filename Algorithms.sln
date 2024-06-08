@@ -5,23 +5,23 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{32663D26-1F0E-4262-9B8C-B63C6AC387FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "src\Algorithms\Algorithms.csproj", "{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Binary_search", "src\01.Binary_search\01.Binary_search.csproj", "{FAED04E1-1946-4EC4-B73F-0B586A6902D8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802}.Release|Any CPU.Build.0 = Release|Any CPU
-	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
-		{5ECFDF2D-FA8C-4B72-BBF6-D068A59D6802} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
+		{FAED04E1-1946-4EC4-B73F-0B586A6902D8} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 	EndGlobalSection
 EndGlobal
