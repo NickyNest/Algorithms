@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{32663D26-1F0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Binary_search", "src\01.Binary_search\01.Binary_search.csproj", "{FAED04E1-1946-4EC4-B73F-0B586A6902D8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.Selection_sort", "src\02.Selection_sort\02.Selection_sort.csproj", "{255CD03E-1CB2-48FD-9059-C3B4D6B073EE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +19,16 @@ Global
 		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FAED04E1-1946-4EC4-B73F-0B586A6902D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{255CD03E-1CB2-48FD-9059-C3B4D6B073EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{255CD03E-1CB2-48FD-9059-C3B4D6B073EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{255CD03E-1CB2-48FD-9059-C3B4D6B073EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{255CD03E-1CB2-48FD-9059-C3B4D6B073EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{FAED04E1-1946-4EC4-B73F-0B586A6902D8} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
+		{255CD03E-1CB2-48FD-9059-C3B4D6B073EE} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 	EndGlobalSection
 EndGlobal
