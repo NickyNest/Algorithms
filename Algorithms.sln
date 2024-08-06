@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05.Hash_tables", "src\05.Ha
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06.Breadth-first_search", "src\06.Breadth-first_search\06.Breadth-first_search.csproj", "{86231402-F7ED-496D-B2EA-4D98D5A5F50F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Dijkstras_algorithm", "src\07.Dijkstras_algorithm\07.Dijkstras_algorithm.csproj", "{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -47,6 +49,10 @@ Global
 		{86231402-F7ED-496D-B2EA-4D98D5A5F50F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86231402-F7ED-496D-B2EA-4D98D5A5F50F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86231402-F7ED-496D-B2EA-4D98D5A5F50F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -58,5 +64,6 @@ Global
 		{87E20D28-7050-45BF-BF89-8C7F18F35FB4} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 		{56524AFE-85C7-494F-A79B-F23C8032768E} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 		{86231402-F7ED-496D-B2EA-4D98D5A5F50F} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
+		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 	EndGlobalSection
 EndGlobal
