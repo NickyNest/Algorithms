@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07.Dijkstras_algorithm", "s
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08.Greedy_algorithms", "src\08.Greedy_algorithms\08.Greedy_algorithms.csproj", "{E0BC99AB-C61C-46CA-A41F-B67442C6FC9C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09.Dynamic_programming", "src\09.Dynamic_programming\09.Dynamic_programming.csproj", "{0D80F30A-2662-4691-8755-3B9A39733744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -59,6 +61,10 @@ Global
 		{E0BC99AB-C61C-46CA-A41F-B67442C6FC9C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0BC99AB-C61C-46CA-A41F-B67442C6FC9C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0BC99AB-C61C-46CA-A41F-B67442C6FC9C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D80F30A-2662-4691-8755-3B9A39733744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D80F30A-2662-4691-8755-3B9A39733744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D80F30A-2662-4691-8755-3B9A39733744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D80F30A-2662-4691-8755-3B9A39733744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -72,5 +78,6 @@ Global
 		{86231402-F7ED-496D-B2EA-4D98D5A5F50F} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 		{CE9A5E5A-1F84-477A-B370-A1FB8D7B1AC6} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 		{E0BC99AB-C61C-46CA-A41F-B67442C6FC9C} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
+		{0D80F30A-2662-4691-8755-3B9A39733744} = {32663D26-1F0E-4262-9B8C-B63C6AC387FB}
 	EndGlobalSection
 EndGlobal
